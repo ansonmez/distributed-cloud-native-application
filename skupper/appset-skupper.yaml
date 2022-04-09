@@ -17,7 +17,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: 'https://github.com/adetalhouet/distributed-cloud-native-application'
+        repoURL: 'https://github.com/ansonmez/distributed-cloud-native-application'
         targetRevision: main
         path: 'skupper/overlays/{{name}}'
       destination:

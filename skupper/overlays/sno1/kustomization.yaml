@@ -13,4 +13,4 @@ patches:
    patch: |-
     - op: replace
       path: /data/name
-      value: ca-toronto
+      value: sno1
