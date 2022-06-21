@@ -13,4 +13,4 @@ patches:
    patch: |-
     - op: replace
       path: /data/name
-      value: sno02
+      value: sno10
