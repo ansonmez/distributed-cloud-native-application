@@ -24,13 +24,13 @@ frontend:
   enabled: false
   image: frontend
 paymentservice:
-  enabled: true
+  enabled: false
   image: paymentservice
 productcatalogservice:
-  enabled: true
+  enabled: false
   image: productcatalogservice
 recommendationservice:
-  enabled: true
+  enabled: false
   image: recommendationservice
 rediscart:
   enabled: false
@@ -40,5 +40,5 @@ shippingservice:
   enabled: true
   image: shippingservice
 loadgenerator:
-  enabled: true
+  enabled: false
   image: loadgenerator
