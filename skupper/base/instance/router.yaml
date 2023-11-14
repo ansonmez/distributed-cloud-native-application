@@ -7,3 +7,4 @@ data:
   name: CHANGEME
   console-authentication: internal
   console: "true"
+  flow-collector: "true" 
