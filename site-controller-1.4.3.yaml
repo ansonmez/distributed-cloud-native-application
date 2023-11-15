@@ -114,7 +114,7 @@ kind: Deployment
 metadata:
   name: skupper-site-controller
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       application: skupper-site-controller
