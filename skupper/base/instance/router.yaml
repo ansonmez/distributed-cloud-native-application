@@ -8,4 +8,3 @@ data:
   console-authentication: internal
   console: "true"
   flow-collector: "true" 
-  routers: 2
