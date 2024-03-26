@@ -21,5 +21,5 @@ spec:
   channel: alpha
   installPlanApproval: Automatic
   name: skupper-operator
-  source: redhat-operators
+  source: community-operators
   sourceNamespace: openshift-marketplace
